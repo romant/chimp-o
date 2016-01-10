@@ -1,0 +1,18 @@
+{
+  "name": "chimp-o",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chimp": "^0.22.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "chimp --ddp=http://$ROOT_URL --watch --path=tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romant/chimp-o.git"
+  }
+}
