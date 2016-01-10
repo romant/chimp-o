@@ -1,6 +1,6 @@
-# Reproducing
+# Chimp Bug Reproduction
 
-There's a [bug](https://github.com/xolvio/chimp/issues/161). This reproduces it.g
+This [one](https://github.com/xolvio/chimp/issues/161).
 
 --
 
